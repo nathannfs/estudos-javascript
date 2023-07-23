@@ -4,7 +4,7 @@ Lançado em 2009
 
 ### O que é - Plataforma para rodar JavaScript no servidor.
 
-### V8 - interpretador de códigos.
+### V8 - interpretador de códigos utilizado no navegador
 
 ### Call Stack - coisas que está executando e esperando executar, a primeira função que entra na call stack é sempre a última a sair
 
@@ -26,7 +26,7 @@ O node não deixa uma função bloqueante bloquear o processo
 
 "Função bloqueante - leva um certo tempo para ser executada com isso bloqueando o processamento enquanto ela não for executada"
 
-É desta maneira que o node consegue executar coisas assíncrona
+É desta maneira que o node consegue executar coisas de forma assíncrona
 
 ## API Rest
 
